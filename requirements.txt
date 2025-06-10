@@ -1,2 +1,2 @@
 streamlit
-streaamlit-option-menu
+streamlit-option-menu
